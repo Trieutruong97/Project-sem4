@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Register</title>
+    <link rel="stylesheet" href="../../static/admindesign/css/register.css">
+</head>
+<body>
+<form th:action="@{/admin/Index}" method="post">
+    <input type="text" name="username">
+    <input type="text" name="password">
+    <button type="submit">submit</button>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Title</title>
+</head>
+<body>
+<div th:replace="fragment/header::header"></div>
+<form th:action="@{/admin/Index}" method="post">
+    <input type="text" name="username">
+    <input type="text" name="password">
+    <button type="submit">submit</button>
+</form>
+
+</body>
+</html>
