@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bb10a5d-0877-46f5-81d8-418a47afc3c4" name="Default Changelist" comment="" />
+    <list default="true" id="9bb10a5d-0877-46f5-81d8-418a47afc3c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sem4/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sem4/BookingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,17 +47,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static.userdesign" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\APTECH\Java Sem 4\Project-sem4\BookingOnline\src\main\resources\static.userdesign" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\APTECH\Java Sem 4\Project-sem4\BookingOnline\src\main\resources\templates\user" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sem4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\APTECH\Java Sem 4\Project-sem4\BookingOnline\src\main\resources\static.userdesign" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sem4.DemoApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sem4.BookingApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599281736328</updated>
       <workItem from="1599281739984" duration="3041000" />
+      <workItem from="1599289534608" duration="1113000" />
     </task>
     <servers />
   </component>
@@ -85,5 +94,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
